@@ -3,10 +3,10 @@
 PROJECT TITLE: 
 Predicting Life Expectancy using Machine Learning
 
-Category:
+CATEGORY:
 Machine Learning
 
-Skills Required:
+SKILLS REQUIRED:
 Python,IBM Cloud,IBM Watson
 
 A typical Regression Machine Learning project leverages historical data to predict insights into the future. This project aims at predicting Life Expectancy rate of a country given various features.
