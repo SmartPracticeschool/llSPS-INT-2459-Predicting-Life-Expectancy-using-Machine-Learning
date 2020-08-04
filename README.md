@@ -9,6 +9,9 @@ Machine Learning
 DATASET : 
 https://www.kaggle.com/kumarajarshi/life-expectancy-who?rvi=1
 
+UI (using NODE-RED FLOW):
+https://node-red-keidc-2020-08-02.eu-gb.mybluemix.net/ui/#!/2?socketid=whxsTrRRHFDvmP-0AAAu
+
 SKILLS REQUIRED:
 Python, Machine Learning, IBM Cloud, IBM Watson, Node-Red flow
 
