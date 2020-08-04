@@ -15,6 +15,9 @@ https://node-red-keidc-2020-08-02.eu-gb.mybluemix.net/ui/#!/2?socketid=whxsTrRRH
 FEEDBACK LINK:
 https://drive.google.com/file/d/1l84sNKarWaBswc1BCgFEXczQ91oeiwiI/view
 
+DEMONSTRATION LINK:
+https://drive.google.com/file/d/1Qztdfl3RhEpuGufT5vh-tSrR4j24BEbY/view?usp=sharing
+
 SKILLS REQUIRED:
 Python, Machine Learning, IBM Cloud, IBM Watson, Node-Red flow
 
